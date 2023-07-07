@@ -5,7 +5,7 @@
   "homepage": "https://GoitStudentsWorks.github.io/js_82_kostarusin",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /bookshelf/"
+    "build": "parcel build src/*.html --public-url /js_82_kostarusin/"
   },
   "repository": {
     "type": "git",
